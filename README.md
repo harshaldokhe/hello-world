@@ -1,2 +1,4 @@
-# hello-world
-My first repository.
+Hello, I'm Harshal.
+
+This is my first git repository.
+
